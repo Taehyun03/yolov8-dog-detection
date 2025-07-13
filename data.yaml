@@ -1,0 +1,6 @@
+
+train: /content/drive/MyDrive/yolov8_project/dog-detection-1/train/images
+val: /content/drive/MyDrive/yolov8_project/dog-detection-1/val/images
+
+nc: 1
+names: ['dog']
